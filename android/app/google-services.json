@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425443695476",
+    "project_id": "nsonline-e4c80",
+    "storage_bucket": "nsonline-e4c80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425443695476:android:3a744c2f2e5e5271156a21",
+        "android_client_info": {
+          "package_name": "com.dream.nsplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425443695476-ds8sa62o0f7uchdfqdam4h8pk0pbuven.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8WfoLL_97fg1M4IMrisxhB4qfdAQR4sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425443695476-ds8sa62o0f7uchdfqdam4h8pk0pbuven.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
